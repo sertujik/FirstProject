@@ -3,6 +3,8 @@ this is my second line
 
 I added this line from GitHub.
 
+        this is another line comes from another branch
+
 
 commit and push - when you change something from your local laptop, to send them to github (server),you will use commit and push button.
 
